@@ -119,4 +119,4 @@ make
 **Caio Dantas**  
 * Engenheiro de Software / Desenvolvedor  
 * GitHub: [@caiodantass](https://github.com/caiodantass)  
-* LinkedIn: [linkedin.com/in/caiodantass]([https://linkedin.com/in/caiodantass](https://www.linkedin.com/in/caio-l%C3%ADvio/]) 
+* LinkedIn: [linkedin.com/in/caiodantass]([https://linkedin.com/in/caiodantass](https://www.linkedin.com/in/caio-l%C3%ADvio/])) 

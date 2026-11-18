@@ -1,4 +1,4 @@
-# ⚡ C++ Object-Oriented Software Design & Architecture
+# C++ Object-Oriented Software Design & Architecture
 
 [![C++](https://img.shields.io/badge/Language-C%2B%2B11%20%2F%2014-00599C.svg?logo=c%2B%2B)](https://isocpp.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20OOP-success.svg)](#principais-habilidades-técnicas)

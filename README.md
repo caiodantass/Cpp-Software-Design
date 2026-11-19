@@ -11,7 +11,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-## 🎯 Destaques do Projeto
+## Destaques do Projeto
 
 * **Arquitetura Polimórfica & Extensível**: Design de hierarquias desacopladas preparadas para extensão sem quebra de contratos estabelecidos (Open/Closed Principle).
 * **Sobrecarga Expressiva de Operadores**: Criação de interfaces fluentes e código idiomático em C++ com `operator<<` e `operator>>`.
@@ -20,9 +20,9 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-## 🏗️ Módulos do Sistema
+## Módulos do Sistema
 
-### 1. 🎬 Smart TV & Streaming Multimedia Engine
+### 1. Smart TV & Streaming Multimedia Engine
 > *Sistema completo de simulação de ecossistema de entretenimento sob demanda.*
 
 * **Domínio Modelado**: Gerenciamento de ciclo de vida de dispositivos inteligentes, execução assíncrona/temporal de mídias e ecossistema de aplicações instaláveis.
@@ -37,7 +37,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-### 2. 📺 Hardware Device & App Lifecycle Management
+### 2. Hardware Device & App Lifecycle Management
 > *Modelagem de baixo acoplamento para gestão de recursos e ciclo de vida de periféricos.*
 
 * **Domínio Modelado**: Instalação, desinstalação e monitoramento de consumo de aplicativos em dispositivos smart.
@@ -52,7 +52,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-### 3. 🏢 Corporate Domain & Identity System
+### 3. Corporate Domain & Identity System
 > *Engine de modelagem de regras de negócio corporativas e representação de identidades.*
 
 * **Domínio Modelado**: Entidades fiscais, controle de pessoal e relacionamento B2B/B2C.
@@ -63,7 +63,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-## 🧠 Principais Habilidades Técnicas Demonstradas
+## Principais Habilidades Técnicas Demonstradas
 
 | Habilidade / Conceito | Aplicação no Projeto |
 | :--- | :--- |
@@ -75,7 +75,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 * **Linguagem Principal**: C++ (ISO/IEC 14882)
 * **Compilador**: GCC / Clang
@@ -84,7 +84,7 @@ O repositório demonstra a aplicação prática de engenharia de software na res
 
 ---
 
-## 🚀 Como Compilar e Rodar Localmente
+## Como Compilar e Rodar Localmente
 
 ### Pré-requisitos
 * Compilador C++ com suporte a C++11 ou superior (`g++` / `clang++`)
@@ -114,7 +114,7 @@ make
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Caio Dantas**  
 * Engenheiro de Software / Desenvolvedor  
